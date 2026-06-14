@@ -28,3 +28,13 @@ operators managing multi-category Instagram channels.
 
 ## 📄 License
 MIT License — free to use, modify, and distribute.
+
+## 🗺 Roadmap
+- [x] Core hashtag generation via OpenAI Codex
+- [ ] TikTok & YouTube tag support
+- [ ] Multi-language expansion (KO, JA, ZH)
+- [ ] Web UI dashboard
+- [ ] Community contributions open
+
+## 🤝 Contributing
+Pull requests are welcome!
