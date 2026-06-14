@@ -38,3 +38,8 @@ MIT License — free to use, modify, and distribute.
 
 ## 🤝 Contributing
 Pull requests are welcome!
+
+docs: add detailed API usage examples
+docs: update roadmap progress
+fix: improve README formatting
+docs: add Korean translation section
